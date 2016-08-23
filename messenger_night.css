@@ -78,6 +78,16 @@
 ._374b { color: #fff !important; }
 ._374c { color: #aaa !important; }
 
+/* 'Active Facebook Friends' background */
+._4u-c._9hq { background: #222 !important; }
+
+/* 'Active Facebook Friends' top bar */
+._1u5d { background: none !important;
+         margin: 12px !important; }
+
+/* message requests description text */
+._5u15 { color: #eee !important; }
+
 /* ---- CONVERSATION ---- */
 
 /* conversation background */
